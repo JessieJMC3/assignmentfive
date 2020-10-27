@@ -8,6 +8,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
     }
   });
 });
+//test git
 
 (function (global) {
 
